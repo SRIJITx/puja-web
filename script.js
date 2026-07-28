@@ -17,14 +17,14 @@ const JOURNEY_DATA = {
   2025: {
     tag: 'The Grand Return',
     images: [
-      { src: 'attachments/hero.jpg', caption: 'Sandhikkhon at the mandap' },
-      { src: 'attachments/xyz.jpeg', caption: 'Maa Durga — a reflection' },
-      { src: 'attachments/pandal.jpeg',caption:'The heaven'},
+      { src: 'hero.jpg', caption: 'Sandhikkhon at the mandap' },
+      { src: 'xyz.jpeg', caption: 'Maa Durga — a reflection' },
+      { src: 'pandal.jpeg',caption:'The heaven'},
     ],
   },
-  2024: { tag: 'Lights of Faith', images: [ {src: 'attachments/2023.jpeg', caption: 'Sacred Aura'},
-    {src: 'attachments/2023i.jpeg',caption:'Heaven On Earth'},
-    {src: 'attachments/2023j.jpeg',caption:'Wrapped In Divinity'},] },
+  2024: { tag: 'Lights of Faith', images: [ {src: '2023.jpeg', caption: 'Sacred Aura'},
+    {src: '2023i.jpeg',caption:'Heaven On Earth'},
+    {src: '2023j.jpeg',caption:'Wrapped In Divinity'},] },
   2023: { tag: 'Roots & Rhythm',  images: [] },
 };
 
